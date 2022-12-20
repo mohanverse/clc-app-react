@@ -49,7 +49,7 @@ const App = () => {
         <button name='+' onClick={handleclick}>+</button>
         <button name='0' onClick={handleclick}>0</button>
         <button name='.' onClick={handleclick}>.</button>
-        <button name='=' onClick={handleclickresult} id="result1">=</button>
+        <button name='=' onClick={handleclickresult} id="result1" >=</button>
       </div>
 
      
